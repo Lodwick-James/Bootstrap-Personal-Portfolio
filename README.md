@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Uploading Bootstrap Personal Portfolio.gif…]()
+![Bootstrap Personal Portfolio](https://github.com/Lodwick-James/Bootstrap-Personal-Portfolio/assets/78684837/194d2996-7f47-4e26-bfc1-fedf9d7e7aaf)
 
 =======
 # Tools used #
