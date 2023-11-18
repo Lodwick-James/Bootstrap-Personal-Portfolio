@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Alt text](<Bootstrap Personal Portfolio/Bootstrap Personal Portfolio.gif>)
+![Uploading Bootstrap Personal Portfolio.gif…]()
 
 =======
 # Tools used #
